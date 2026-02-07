@@ -9,8 +9,8 @@ MyShule Admin Dashboard is designed for school administrators to centralize key 
 ## Core Features
 
 - **Authentication & Roles**
-  - Secure login (JWT/session-based)
-  - Role-based access control (e.g., Admin, Bursar, Teacher, Registrar)
+  - Secure login
+  - Role-based access control : Admin, Bursar, Teacher, Registrar
 
 - **Students & Guardians**
   - Register and manage students
@@ -44,9 +44,7 @@ MyShule Admin Dashboard is designed for school administrators to centralize key 
 - **Frontend:** React + Vite + TypeScript
 - **Backend:** Node.js + Express
 - **Database:** PostgreSQL
-- **ORM/Query:** (choose one) Prisma / Sequelize / Knex / raw SQL
-- **Auth:** JWT + bcrypt (recommended)
-- **UI/Notifications:** (optional) Sonner / Refine UI components
+- **UI/Notifications:**Sonner / Refine UI components
 
 ## Project Structure (Typical)
 
@@ -54,4 +52,3 @@ MyShule Admin Dashboard is designed for school administrators to centralize key 
 myshule_app/
   myshule_app-frontend/   # React (Vite)
   myshule_app-backend/    # Node/Express API
-  db/                     # migrations, seeds (optional)
