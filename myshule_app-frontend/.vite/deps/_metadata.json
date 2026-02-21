@@ -1,0 +1,97 @@
+{
+  "hash": "fd0b0ab2",
+  "configHash": "280f2ebe",
+  "lockfileHash": "6796849b",
+  "browserHash": "b22dbc72",
+  "optimized": {
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "de7bc359",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "8e945a17",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "345bee42",
+      "needsInterop": true
+    },
+    "@refinedev/core": {
+      "src": "../../node_modules/@refinedev/core/dist/index.mjs",
+      "file": "@refinedev_core.js",
+      "fileHash": "7056572e",
+      "needsInterop": false
+    },
+    "@refinedev/devtools": {
+      "src": "../../node_modules/@refinedev/devtools/dist/index.mjs",
+      "file": "@refinedev_devtools.js",
+      "fileHash": "0494e8f0",
+      "needsInterop": false
+    },
+    "@refinedev/kbar": {
+      "src": "../../node_modules/@refinedev/kbar/dist/index.mjs",
+      "file": "@refinedev_kbar.js",
+      "fileHash": "4dcf2d53",
+      "needsInterop": false
+    },
+    "@refinedev/react-router": {
+      "src": "../../node_modules/@refinedev/react-router/dist/index.mjs",
+      "file": "@refinedev_react-router.js",
+      "fileHash": "9b9c8ad5",
+      "needsInterop": false
+    },
+    "react-router": {
+      "src": "../../node_modules/react-router/dist/development/index.mjs",
+      "file": "react-router.js",
+      "fileHash": "f64ede7f",
+      "needsInterop": false
+    },
+    "sonner": {
+      "src": "../../node_modules/sonner/dist/index.mjs",
+      "file": "sonner.js",
+      "fileHash": "c23f61c8",
+      "needsInterop": false
+    },
+    "@refinedev/rest/simple-rest": {
+      "src": "../../node_modules/@refinedev/rest/dist/simple-rest.mjs",
+      "file": "@refinedev_rest_simple-rest.js",
+      "fileHash": "d4c13447",
+      "needsInterop": false
+    },
+    "lucide-react": {
+      "src": "../../node_modules/lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "a94fe342",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-WRGAJBVE": {
+      "file": "chunk-WRGAJBVE.js"
+    },
+    "chunk-QJYCY7SZ": {
+      "file": "chunk-QJYCY7SZ.js"
+    },
+    "chunk-NABDWEKI": {
+      "file": "chunk-NABDWEKI.js"
+    },
+    "chunk-PATFC77K": {
+      "file": "chunk-PATFC77K.js"
+    },
+    "chunk-TXJE3SUT": {
+      "file": "chunk-TXJE3SUT.js"
+    },
+    "chunk-MC2JJCLE": {
+      "file": "chunk-MC2JJCLE.js"
+    },
+    "chunk-OL46QLBJ": {
+      "file": "chunk-OL46QLBJ.js"
+    }
+  }
+}
